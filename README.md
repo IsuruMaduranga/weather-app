@@ -1,4 +1,4 @@
-# weather-app
+# weather-app version 1.0
 node.js command line app for getting weather data/weather forcasting by simply entering the address
 
 node and npm should have installed
